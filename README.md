@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @olivetahonsu
 - 👀 I’m interested in Data Analytics, FrontEnd and BackEnd Development 
-- 🌱 I’m currently learning BackEnd development with Node.js
 - 💞️ I’m looking to collaborate on any project on data analytics and software development
 - 📫 You can reach me via olivetahonsu@gmail.com
 
