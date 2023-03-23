@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @olivetahonsu
-- 👀 I’m interested in Data Analytics, FrontEnd and BackEnd Development 
-- 💞️ I’m looking to collaborate on any project on data analytics and software development
+- 👀 I’m interested in Data Science, Machine Learning and AI
+- I'm also interested in FrontEnd and BackEnd Development 
+- 💞️ I’m looking to collaborate on any project on data science, AI and software development
 - 📫 You can reach me via olivetahonsu@gmail.com
 
 <!---
