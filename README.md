@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olivetahonsu
-- 👀 I’m interested in Data Science, Machine Learning and AI
-- 💞️ I’m looking to collaborate on any project on data science, AI and software development
+- 👀 I’m interested in Data Science, Machine Learning and AI Applications in Renewable Energy
+- 💞️ I’m looking to collaborate on any project on data science, ML/AI applications to Energy/Power System  
 - 📫 You can reach me via olivetahonsu@gmail.com
 
 <!---
